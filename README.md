@@ -1,6 +1,14 @@
 # Covid19Prediction
 **Title**: Covid19-PREDICTION-AND-IDENTIFICATION-WITH-MACHINE-LEARNING
 
+**Team Details:**
+1) Sri Charan Reddy Nannuri (MS in Computer Science)
+   Student ID 700747879
+2) Bharath Chandra Tangallapalli (MS in Computer Science)
+   Student ID 700745203
+3) Karishma Shaik (MS in Computer Science)
+   Student ID 700744936
+
 **Tool Used**: Google Colab-Colab
 
 **Algorithm Used**: Logistic Regression Algorithm
